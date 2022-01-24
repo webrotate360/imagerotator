@@ -1,0 +1,30 @@
+{
+  "name": "@webrotate360/imagerotator",
+  "version": "4.0.0",
+  "description": "WebRotate 360 Product Viewer Runtime",
+  "homepage": "https://www.webrotate360.com/products/webrotate-360-product-viewer.aspx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrotate 360",
+    "webrotate360",
+    "webrotate",
+    "360 product viewer",
+    "3d product viewer",
+    "3d view",
+    "product spin",
+    "360 view",
+    "ecommerce",
+    "e-learing",
+    "architectural",
+    "visualization",
+    "product tours"
+  ],
+  "author": "WebRotate 360 LLC",
+  "license": "See license in EULA.pdf",
+  "dependencies": {
+    "jquery": "3.4.1"
+  }
+}
