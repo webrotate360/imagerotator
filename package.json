@@ -1,8 +1,12 @@
 {
   "name": "@webrotate360/imagerotator",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "WebRotate 360 Product Viewer Runtime",
   "homepage": "https://www.webrotate360.com/products/webrotate-360-product-viewer.aspx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webrotate360/imagerotator.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
