@@ -58,6 +58,8 @@ viewer.runImageRotator();
 if (this.viewerApi)
     this.viewerApi.delete();
 ```
+A simple React example is available via [imagerotator-react-example](https://github.com/webrotate360/imagerotator-react-example).
+
 ## Documentation
 
 Review API and Extended API sections in the [user guide](https://webrotate360.s3.amazonaws.com/sites/webrotate360/downloads/Resources/Readme.pdf). Alternatively, browse through these [integration templates](https://webrotate360.s3.amazonaws.com/sites/webrotate360/downloads/Resources/IntegrationTemplates.zip) (e.g. template_api.html).
