@@ -58,7 +58,7 @@ viewer.runImageRotator();
 if (this.viewerApi)
     this.viewerApi.delete();
 ```
-A simple React example is available via [imagerotator-react-example](https://github.com/webrotate360/imagerotator-react-example).
+Updated examples for React, Vue and Next are available [here](https://github.com/webrotate360).
 
 ## Documentation
 
